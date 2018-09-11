@@ -102,3 +102,19 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.swp
+*.app
+*.x86_64
+*.jpg
+*.png
+*.json
+*.pyc
+*.h5
+donkey_rl/sdsim/Library
+donkey_rl/sdsim/log/*
+donkey_rl/sdsim/obj
+donkey_rl/sdsim/*.sln
+donkey_rl/sdsim/*.userprefs
+donkey_rl/sdsim/Temp
+donkey_rl/sdsdim/*.csproj

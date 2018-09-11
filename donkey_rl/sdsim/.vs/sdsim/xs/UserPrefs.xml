@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{74C0DD75-453B-E432-C590-F288B3448C04}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SocketIODriveClient.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PathManager.cs" Line="141" Column="1" />
+      <File FileName="Assets/Scripts/SocketIO/Scripts/SocketIO/SocketIOComponent.cs" Line="133" Column="1" />
+      <File FileName="Assets/Scripts/SocketIODriveClient.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
