@@ -4,7 +4,7 @@
 
 As a simple demo, I've implemented Double Deep Q Learning (DDQN) and used it to train Donkey car to drive itself in the simulator. The below screencast shows the trained Donkey car (after ~100 episodes) in action. 
 
-<img src="/resources/ddqn_demo.gif" width="300">
+<img src="/resources/ddqn_demo.gif" width="500">
 
 My goal is to use reinforcement learning to train Donkey Car to compete in a real car race. This involved having the Donkey car trained in simulation first and transfer the learned policy to the real world. 
 
