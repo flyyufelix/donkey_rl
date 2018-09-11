@@ -34,7 +34,7 @@ class DQNAgent:
         self.t = 0
         self.max_Q = 0
         self.train = True
-        self.lane_detection = False
+        self.lane_detection = False # Set to True to train on images with segmented lane lines
 
         # Get size of state and action
         self.state_size = state_size
