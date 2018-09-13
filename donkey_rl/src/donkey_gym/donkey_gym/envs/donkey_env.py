@@ -1,3 +1,8 @@
+'''
+file: donkey_env.py
+author: Tawn Kramer
+date: 2018-08-31
+'''
 from threading import Thread
 
 import numpy as np
