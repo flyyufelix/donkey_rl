@@ -28,7 +28,7 @@ Then validate the steering control by sending images to your neural network and 
 
 You need to have [Unity](https://unity3d.com/get-unity/download) installed, and all python modules listed in the Requirements section below.
 
-Linix Unity install [here](https://forum.unity3d.com/threads/unity-on-linux-release-notes-and-known-issues.350256/). Check last post in this thread.
+Linux Unity install [here](https://forum.unity3d.com/threads/unity-on-linux-release-notes-and-known-issues.350256/). Check last post in this thread.
 
 You need python 3.4 or higher, 64 bit. You can create a virtual env if you like:
 ```bash
